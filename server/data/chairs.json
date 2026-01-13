@@ -1,0 +1,110 @@
+[
+  {
+    "id": "chair-1",
+    "title": "Cozy Boucle Lounge Chair - Cream",
+    "store": "Haven & Co.",
+    "price": 229,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Cozy+Boucle+Chair",
+    "product_url": "https://example.com/products/cozy-boucle-chair"
+  },
+  {
+    "id": "chair-2",
+    "title": "Modern Light Oak Accent Chair",
+    "store": "Nordic Nest",
+    "price": 199,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Light+Oak+Accent",
+    "product_url": "https://example.com/products/light-oak-accent"
+  },
+  {
+    "id": "chair-3",
+    "title": "Compact Reading Chair - Mist Gray",
+    "store": "Reading Nook",
+    "price": 179,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Reading+Chair",
+    "product_url": "https://example.com/products/compact-reading"
+  },
+  {
+    "id": "chair-4",
+    "title": "Oversized Velvet Chair - Emerald",
+    "store": "Velvet Room",
+    "price": 320,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Velvet+Emerald",
+    "product_url": "https://example.com/products/oversized-velvet"
+  },
+  {
+    "id": "chair-5",
+    "title": "Minimalist Metal Frame Chair - Black",
+    "store": "Studio Steel",
+    "price": 149,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Metal+Frame",
+    "product_url": "https://example.com/products/metal-frame"
+  },
+  {
+    "id": "chair-6",
+    "title": "Soft Linen Armchair - Sand",
+    "store": "Cloud Living",
+    "price": 245,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Linen+Armchair",
+    "product_url": "https://example.com/products/linen-armchair"
+  },
+  {
+    "id": "chair-7",
+    "title": "Dark Walnut Recliner - Espresso",
+    "store": "Oak & Iron",
+    "price": 410,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Walnut+Recliner",
+    "product_url": "https://example.com/products/walnut-recliner"
+  },
+  {
+    "id": "chair-8",
+    "title": "Budget-Friendly Club Chair - Navy",
+    "store": "Budget Home",
+    "price": 129,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Club+Chair",
+    "product_url": "https://example.com/products/club-chair"
+  },
+  {
+    "id": "chair-9",
+    "title": "Sculptural Accent Chair - Terracotta",
+    "store": "Forma",
+    "price": 289,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Sculptural+Accent",
+    "product_url": "https://example.com/products/sculptural-accent"
+  },
+  {
+    "id": "chair-10",
+    "title": "Small Space Swivel Chair - Pearl",
+    "store": "Urban Ease",
+    "price": 215,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Swivel+Chair",
+    "product_url": "https://example.com/products/small-space-swivel"
+  },
+  {
+    "id": "chair-11",
+    "title": "Leather Reading Chair - Chestnut",
+    "store": "Heritage Loft",
+    "price": 360,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Leather+Reading",
+    "product_url": "https://example.com/products/leather-reading"
+  },
+  {
+    "id": "chair-12",
+    "title": "Bright Boucle Accent Chair - Ivory",
+    "store": "Softline",
+    "price": 210,
+    "currency": "GBP",
+    "image_url": "https://placehold.co/400x300?text=Bright+Boucle",
+    "product_url": "https://example.com/products/bright-boucle"
+  }
+]
